@@ -1,5 +1,4 @@
 # GUI design
-#Comentario nuevo
 import tkinter as tk
 from tkinter import scrolledtext
 
